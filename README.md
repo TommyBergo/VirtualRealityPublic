@@ -25,5 +25,3 @@ Optional Part:
 - Visual Feedback for interaction (only the cube)
 - Shader applied to the material of the cube on the left side. 
 
-NOT PRESENT: shader -> I had problems in setting up a Shader Graph wich I was not able to solve
-
