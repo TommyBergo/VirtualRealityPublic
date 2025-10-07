@@ -21,8 +21,9 @@ Set-Up Infomrations:
 Optional Part:
 - Baked light inserted
 - Spatial 3D audio
-
+- Height Map on the main material used for all the tables
 - Visual Feedback for interaction (only the cube)
+- Shader applied to the material of the cube on the left side. 
 
 NOT PRESENT: shader -> I had problems in setting up a Shader Graph wich I was not able to solve
-- Height Map on the main material used for all the tables
+
