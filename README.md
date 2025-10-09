@@ -23,5 +23,9 @@ Optional Part:
 - Spatial 3D audio
 - Height Map on the main material used for all the tables
 - Visual Feedback for interaction (only the cube)
-- Shader applied to the material of the cube on the left side. 
+- Shader applied to the material of the cube on the left side.
+
+Delivery:
+- project zip -> contains the main project
+- video zip -> contains 2 videos. In the main video I show the main part of the project. In the 3D_Audio video I only show how the 3D audio works (optional point part). 
 
